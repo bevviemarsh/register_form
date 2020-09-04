@@ -1,0 +1,16 @@
+.MainContainer {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(
+    270deg,
+    hsla(183, 80%, 37%, 1) 40%,
+    hsla(166, 63%, 48%, 1) 99%
+  );
+  overflow: hidden;
+}
+
+/* #322B57
+#0DA1A1 - green
+#F9F9F9 - white
+##D1D0D8 - gray
+#453E68 - do tekstu */

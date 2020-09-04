@@ -1,0 +1,8 @@
+.Backdrop {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: hsla(250, 34%, 25%, 0.5);
+}
